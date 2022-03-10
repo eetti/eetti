@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p><em>Software Engineer at <a href="http://ibm.com">IBM</a>
 </em></p>
 
-[![Linkedin: Emmanuel Etti](https://img.shields.io/badge/-Emmanuel-Etti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-etti/)](https://www.linkedin.com/in/emmanuel-etti/)
+[![Linkedin: Emmanuel Etti](https://img.shields.io/badge/-emmanuel%20etti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-etti/)](https://www.linkedin.com/in/emmanuel-etti/)
 [![GitHub eetti](https://img.shields.io/github/followers/eetti?label=follow&style=social)](https://github.com/eetti)
 
 
