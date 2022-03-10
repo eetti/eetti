@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **eetti/eetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Emmanuel!</h2>
+<h2> Hi 👋, I'm Emmanuel!</h2>
 <!--img align='right' src="https://github-readme-stats.vercel.app/api?username=eetti&show_icons=true&count_private=true"-->
 <p>As a software Engineer in financial products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
 <p><em>Software Engineer at <a href="http://ibm.com">IBM</a>
