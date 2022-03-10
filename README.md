@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hi, I'm Emmanuel!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eeetti&show_icons=true&count_private=true">
+<!--img align='right' src="https://github-readme-stats.vercel.app/api?username=eeetti&show_icons=true&count_private=true"-->
 <p>As a software Engineer in financial products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
 <p><em>Software Engineer at <a href="http://ibm.com">IBM</a>
 </em></p>
 
-[![Linkedin: Emmanuel Ettu](https://img.shields.io/badge/-AjayShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-etti/)](https://www.linkedin.com/in/emmanuel-etti/)
+[![Linkedin: Emmanuel Ettu](https://img.shields.io/badge/-Etti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-etti/)](https://www.linkedin.com/in/emmanuel-etti/)
 [![GitHub eetti](https://img.shields.io/github/followers/eetti?label=follow&style=social)](https://github.com/eetti)
 
 
